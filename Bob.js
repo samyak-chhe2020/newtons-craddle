@@ -14,6 +14,7 @@ class Bob {
       World.add(world, this.body);
     }
     display(){
+        fill("blue")
       var pos =this.body.position;
 
     }
